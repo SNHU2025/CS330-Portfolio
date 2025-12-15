@@ -1,4 +1,5 @@
 **Designing Software**
+
 **How do I approach designing software?**
 
 I approach software design by first breaking the problem into smaller, manageable components and defining clear responsibilities for each part of the system. For this project, I separated concerns such as scene management, camera control, lighting, and object creation, which helped keep the code organized and maintainable.
