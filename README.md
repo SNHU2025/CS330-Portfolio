@@ -15,7 +15,9 @@ I followed an iterative design process that started with basic geometry and came
 **How can this design approach be applied in future work?**
 
 This modular, incremental design approach can be applied to larger software systems, game engines, and simulations by improving scalability, readability, and long-term maintainability.
+
 **Developing Programs**
+
 **How do I approach developing programs?**
 
 I develop programs incrementally, focusing first on core functionality and then layering in additional features. I prioritize frequent testing and code refactoring as complexity increases.
@@ -31,7 +33,9 @@ Iteration was essential. Each milestone allowed me to revise camera controls, li
 **How has my development approach evolved?**
 
 Over the course of the milestones, my code became more organized, modular, and readable. I moved away from monolithic functions toward cleaner abstractions, which directly contributed to the successful completion of the final project.
+
 **Computer Science and My Goals**
+
 **How can computer science help me reach my goals?**
 
 Computer science provides me with problem-solving skills, technical foundations, and the ability to build real-world applications. Courses such as CS 330 broaden my understanding beyond traditional software to include visual and interactive systems.
